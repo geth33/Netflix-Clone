@@ -14,6 +14,8 @@ I'll soon talk about this clone more on my website [here](http://brysonoar.com/)
 ![](images/NetflixClone.gif)
 
 Pictured in the above demo is the base functionality provided by the tutorial. The full project is hosted on firebase and can be accessed [here.](https://netflix-clone-ba12f.web.app/) <br>
+#### Authentication
 You can sign in with - <b>email: test@gmail.com</b> <b>password: abcabc</b> <br>
 To create an account, fill out the username and password fields with a new email and password and click 'Sign up now.' <br>
-To do a test Stripe payment, click on 'subscribe' on one of the payment plan buttons and on the new stripe page, enter in card number: 4242 4242 4242 4242 , expr: 04/24 , cvc: 424 . Then fill out the remaining fields with whatever.
+#### Test Stripe Payment 
+Click on 'subscribe' on one of the payment plan buttons and on the new stripe page, enter in card number: 4242 4242 4242 4242 , expr: 04/24 , cvc: 424 . Then fill out the remaining fields with whatever.
