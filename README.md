@@ -12,7 +12,7 @@ I'll soon talk about this clone more on my website [here](http://brysonoar.com/)
 
 ### Live Link & Demo
 ![](images/homepage.png)
-![](NetflixClone.gif)
+![](images/NetflixClone.gif)
 
 The link is hosted on firebase and can be accessed [here.](https://netflix-clone-ba12f.web.app/) <br>
 The only non-obvious functionality that this page has is that the movie rows are side scrollable. <br>
