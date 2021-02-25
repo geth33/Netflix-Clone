@@ -1,7 +1,7 @@
 ## Netflix Clone
 
 ### About
-The base of this clone comes from a [youtube tutorial](https://www.youtube.com/watch?v=1TCw9wO1neA) I followed which uses React.js, Redux, Firebase, and Stripe payment integration. I added more funcitonality such as trailers on homepage, sign up page, navbar and footer, and a choose account page (among 5 options). I also added the smooth animations.<br>
+The base of this clone comes from a [youtube tutorial](https://www.youtube.com/watch?v=1TCw9wO1neA) I followed which uses React.js, Redux, Firebase, and Stripe payment integration. I will be adding more funcitonality such as trailers on homepage, sign up page, navbar and footer, and a choose account page (among 5 options).<br>
 I'll soon talk about this clone more on my website [here](http://brysonoar.com/).
 
 ### Built With
